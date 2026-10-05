@@ -1,4 +1,4 @@
 
 User-agent: *
 Allow: /
-Sitemap: https://mazen-ghazly.online/sitemap.xml
+Sitemap: https://mazen-ghzaly.github.io/home/sitemap.xml
